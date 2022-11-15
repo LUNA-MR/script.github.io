@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T05:42:18.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="g6PZovpxxQLng6rrIjon" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T05:44:13.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="yMMZiE9ZtGFh1O_Km-fY" version="20.5.3" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="8091" dy="1769.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="8629" dy="2034.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -974,7 +974,7 @@
         <mxCell id="DINNEeaN1l0EX_lYJHIL-90" value="Main" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-3507" y="150" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DINNEeaN1l0EX_lYJHIL-93" value="메인페이지" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DINNEeaN1l0EX_lYJHIL-93" value="메인페이지" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="-3504.5" y="360" width="140" height="240" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-101" value="선호사양 설문지 배너" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="DINNEeaN1l0EX_lYJHIL-93" vertex="1">
@@ -992,7 +992,7 @@
         <mxCell id="DINNEeaN1l0EX_lYJHIL-98" value="시세조회" style="text;strokeColor=none;fillColor=#FFDB29;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="DINNEeaN1l0EX_lYJHIL-93" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DINNEeaN1l0EX_lYJHIL-117" value="커뮤니티" style="text;strokeColor=none;fillColor=#FFDE3B;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="DINNEeaN1l0EX_lYJHIL-93" vertex="1">
+        <mxCell id="DINNEeaN1l0EX_lYJHIL-117" value="커뮤니티" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="DINNEeaN1l0EX_lYJHIL-93" vertex="1">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-99" value="마이페이지" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="DINNEeaN1l0EX_lYJHIL-93" vertex="1">

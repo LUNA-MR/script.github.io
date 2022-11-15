@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T05:37:46.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="NBw_7HkbKLR1O33mLTTF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T05:38:42.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="uDO27eAJvElyTNAkQ2w0" version="20.5.3" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="9033" dy="2233.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1271,7 +1271,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-200" value="판매글 올리기&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-4200" y="430" width="140" height="210" as="geometry" />
+          <mxGeometry x="-4400" y="420" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-201" value="제목" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DINNEeaN1l0EX_lYJHIL-200">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -1296,15 +1296,15 @@
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DINNEeaN1l0EX_lYJHIL-248" target="DINNEeaN1l0EX_lYJHIL-226">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3774" y="525" as="sourcePoint" />
+            <mxPoint x="-3974" y="515" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-3820" y="685" />
-              <mxPoint x="-3820" y="535" />
+              <mxPoint x="-4020" y="675" />
+              <mxPoint x="-4020" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-226" value="구입 상세 페이지" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-4017.75" y="520" width="150" height="120" as="geometry" />
+          <mxGeometry x="-4217.75" y="510" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-227" value="주소기입 (자동불러오기)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DINNEeaN1l0EX_lYJHIL-226">
           <mxGeometry y="30" width="150" height="30" as="geometry" />
@@ -1315,13 +1315,13 @@
         <mxCell id="DINNEeaN1l0EX_lYJHIL-230" value="구입 버튼" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DINNEeaN1l0EX_lYJHIL-226">
           <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DINNEeaN1l0EX_lYJHIL-234" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DINNEeaN1l0EX_lYJHIL-94">
+        <mxCell id="DINNEeaN1l0EX_lYJHIL-234" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.021;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DINNEeaN1l0EX_lYJHIL-94" target="DINNEeaN1l0EX_lYJHIL-237">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-3580" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-237" value="상품 List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3774" y="460" width="190" height="300" as="geometry" />
+          <mxGeometry x="-3974" y="450" width="190" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DINNEeaN1l0EX_lYJHIL-238" value="사진" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="DINNEeaN1l0EX_lYJHIL-237">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
